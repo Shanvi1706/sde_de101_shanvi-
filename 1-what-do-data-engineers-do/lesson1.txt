@@ -1,0 +1,69 @@
+🎯 1. Start by Thinking Backward: What Might the Business Need?
+Business Goals:
+
+Improve customer experience
+
+Reduce churn rate
+
+Optimize product performance
+
+Increase operational efficiency
+
+Possible Questions the Business May Ask:
+
+What are the most common customer complaints?
+
+Which products are underperforming?
+
+How can we predict which customers might leave?
+
+Where can we reduce cost without affecting quality?
+
+🧠 2. Gather Requirements (How I Would Approach It)
+Step 1: Stakeholder Interviews
+
+Meet with marketing, sales, operations, and product teams.
+
+Ask questions like:
+
+“What reports do you rely on today?”
+
+“Where do you spend the most time making decisions?”
+
+“What decisions are hard to make right now?”
+
+Step 2: Review Existing Dashboards or Reports
+
+Identify gaps in current data.
+
+Look for redundant or manual processes.
+
+Step 3: Understand Data Sources
+
+CRM tools (e.g., Salesforce)
+
+Web analytics (e.g., Google Analytics)
+
+Product databases
+
+Excel/CSV reports from departments
+
+Step 4: Define KPIs and Metrics
+
+Customer Lifetime Value
+
+Conversion Rate
+
+Average Response Time
+
+Return on Investment (ROI)
+
+🗺️ 3. My Next Steps After Gathering Requirements
+Document all requirements in a central place (Notion, Google Docs, etc.)
+
+Build a data model or sketch a data pipeline plan.
+
+Prioritize the high-impact use cases.
+
+Start creating ETL workflows, dashboards, or data visualizations.
+
